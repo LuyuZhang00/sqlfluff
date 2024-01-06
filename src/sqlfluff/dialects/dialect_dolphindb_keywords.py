@@ -1,5 +1,7 @@
 """A list of DolphinDB keywords."""
 
+# https://gitee.com/dolphindb/Tutorials_CN/blob/master/Standard_SQL_in_DolphinDB.md
+
 RESERVED_KEYWORDS = [
   "ADD",
   "ALL",
